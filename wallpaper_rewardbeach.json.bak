@@ -32,19 +32,9 @@
   "More":
   [
     {
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Wednesday sticker",
+      "image":"https://play-lh.googleusercontent.com/igUFCKVcD1uJhPUXCCfEdqmlOgNmyTVVpSGlSqnQ-v-kB1kwzUKVvscuMatW-uA-ESQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.animatedwednesdaywastickers"
     }
   ],
 
@@ -73,62 +63,42 @@
 
   "Data":
   [
+    
     {
       "id":1,
-      "name_category": "River",
-      "title":"Riverand Pine",
-      "image":"https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":150
-    },
-    {
-      "id": 2,
-      "name_category": "River",
-      "title": "Water Near Mountains",
-      "image": "https://images.pexels.com/photos/1192662/pexels-photo-1192662.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":300
-    },
-    {
-      "id":3,
-      "name_category": "River",
-      "title":"Snow Covered",
-      "image":"https://images.pexels.com/photos/816036/pexels-photo-816036.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "name_category": "Beach",
+      "title":"Beach",
+      "image":"https://i.pinimg.com/564x/91/ab/35/91ab351e0ca4bc826cde2683b1de7759.jpg",
       "coin":0
     },
     {
+      "id": 2,
+      "name_category": "Beach",
+      "title": "Sunset",
+      "image": "https://i.pinimg.com/564x/a6/d2/54/a6d254cfd24a8ecec5cc7a04e147a460.jpg",
+      "coin":0
+    },
+    {
+      "id":3,
+      "name_category": "Beach",
+      "title":"Sunset",
+      "image":"https://i.pinimg.com/564x/27/fc/ab/27fcab30ec27cc1a0742dd4dd8081c66.jpg",
+      "coin":100
+    },
+    {
       "id":4,
-      "name_category": "Mountain",
-      "title":"Green Grass",
-      "image":"https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "name_category": "Beach",
+      "title":"Wave",
+      "image":"https://i.pinimg.com/564x/4a/9a/c1/4a9ac10e0376bc4d86033bcd64c9a003.jpg",
       "coin":0
     }
   ,
     {
       "id":5,
-      "name_category": "Mountain",
-      "title":"Empty Highway",
-      "image":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "name_category": "Beach",
+      "title":"View Beach",
+      "image":"https://i.pinimg.com/564x/6d/5a/04/6d5a0403138f29b36e2e88a02d73515e.jpg",
       "coin":200
-    },
-    {
-      "id":6,
-      "name_category": "Beach",
-      "title":"Aerial",
-      "image":"file:///android_asset/image/beach.jpeg",
-      "coin":100
-    },
-    {
-      "id":7,
-      "name_category": "Beach",
-      "title":"Palm Trees",
-      "image":"file:///android_asset/image/palm.jpeg",
-      "coin":100
-    },
-    {
-      "id":8,
-      "name_category": "Waterfall",
-      "title":"Waterfalls Rain",
-      "image":"https://images.pexels.com/photos/1620372/pexels-photo-1620372.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-      "coin":100
     }
   ]
 }
