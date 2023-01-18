@@ -86,6 +86,13 @@
       "title": "Water Near Mountains",
       "image": "https://i.pinimg.com/564x/c4/19/d8/c419d85a8607ee73bdf36f70409999af.jpg",
       "coin":300
+    },
+    {
+      "id": 3,
+      "name_category": "Ronaldo",
+      "title": "Water Near Mountains",
+      "image": "https://i.pinimg.com/564x/11/bc/92/11bc92d9ca492d9d799bfc1d82669a54.jpg",
+      "coin":300
     }
   ]
 }
