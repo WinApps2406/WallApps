@@ -100,5 +100,13 @@
       "image":"https://i.pinimg.com/564x/6d/5a/04/6d5a0403138f29b36e2e88a02d73515e.jpg",
       "coin":200
     }
+  ,
+    {
+      "id":6,
+      "name_category": "Beach",
+      "title":"Sunset Beach",
+      "image":"https://i.pinimg.com/564x/0a/7f/4f/0a7f4fb9f361ca42d4f87f0d95cfe768.jpg",
+      "coin":100
+    }
   ]
 }
