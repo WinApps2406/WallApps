@@ -108,5 +108,12 @@
       "image":"https://i.pinimg.com/564x/0a/7f/4f/0a7f4fb9f361ca42d4f87f0d95cfe768.jpg",
       "coin":100
     }
+    {
+      "id":6,
+      "name_category": "Beach",
+      "title":"Sunrise Beach",
+      "image":"https://i.pinimg.com/564x/ed/43/96/ed4396c3ef91c7b28726caf658548f19.jpg",
+      "coin":100
+    }
   ]
 }
