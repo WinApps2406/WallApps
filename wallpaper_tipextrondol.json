@@ -1,0 +1,115 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "coin_reward": 300
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Sticker WA Puasa Ramadhan",
+      "image":"https://play-lh.googleusercontent.com/HXUS_IoHMpLYOJCIql1VzA-rqwgB1MOSeYofnw-XeTp6bSDNfvgEw1NGF4EQQzEJuZ8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerwapuasaramadhan"
+    },
+    {
+      "title":"Sticker Lato-Lato",
+      "image":"https://play-lh.googleusercontent.com/sZLOyf13QrYo-zUvVrN2uBCyIpfbir070UqTwvQp3JtsSKE7sY8gITymDZ0uCnc4r9w=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.stickerlatolatowasticker"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "Tipex Trondol",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Tipex Trondol",
+      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Tipex Trondol",
+      "image": "file:///android_asset/image/Tipex Trondol.jpeg"
+
+    },
+    {
+      "name_category": "Waterfall",
+      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Tipex Trondol",
+      "title":"Tipex Trondol 3D",
+      "image":"https://play-lh.googleusercontent.com/LMrBwflWbF5uhW1yZKZHaRjFh-8fx38dZZFLV_U0CyvdwLuCpEosAPvZydsoCRptWGGs",
+      "coin":100
+    },
+    {
+      "id": 2,
+      "name_category": "Tipex Trondol",
+      "title": "Tipex Trondols",
+      "image": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/09cebb7d4034f6d77e7039aca27de569~c5_720x720.jpeg?x-expires=1678280400&x-signature=J%2BAjkvoZf%2FVuvvthPhdmBtTN%2Fv0%3D",
+      "coin":0
+    },
+    {
+      "id":3,
+      "name_category": "Tipex Trondol",
+      "title":"Trondol Disco",
+      "image":"https://images-tm.tempo.co/all/2023/02/25/824859/824859_1200.jpg",
+      "coin":200
+    },
+    {
+      "id":4,
+      "name_category": "Tipex Trondol",
+      "title":"Trondol 3D Racing",
+      "image":"https://dl.memuplay.com/new_market/img/com.owngames.tipex.tipe.x.trondol.bike.icon.2023-03-01-10-26-50.png",
+      "coin":200
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Tipex Trondol",
+      "title":"Trondol Green",
+      "image":"https://play-lh.googleusercontent.com/hIYlhUqYRQu4m6yN1CUbsZDhW8ZLDFnXVbVuGBCks7N62rIpBtxMFHSOWhkfypjKLbJt",
+      "coin":0
+    },
+    {
+      "id":6,
+      "name_category": "Tipex Trondol",
+      "title":"Trondol Modif",
+      "image":"https://edoo.id/wp-content/uploads/2023/02/Tipe-X-Modifikasi-3.jpg",
+      "coin":0
+    }
+  ]
+}
