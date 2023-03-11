@@ -1,0 +1,143 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "coin_reward": 500
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Wallpaper Tipe X Trondol Viral",
+      "image":"https://play-lh.googleusercontent.com/aCbCcwkPyWUQQiOFuBrpmUOHD5_xhqHDQMdS8S55KhrTfQ6GddxfUelxWWSUEMOeayw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.wallpapertipextrondolviral"
+    },
+    {
+      "title":"Wallpaper Sunset 4K",
+      "image":"https://play-lh.googleusercontent.com/snrmRASFpk0NqbanCVYFzTdkqO4VEKCeD5oiKZk8aMojOhAlwLJ0FNAeMNFsq9eR0IQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.wallpapersunset4k"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "Bus",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Bus",
+      "image": "https://images.pexels.com/photos/4215113/pexels-photo-4215113.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    },
+    {
+      "name_category": "Bus",
+      "image": "file:///android_asset/image/Bus.jpeg"
+
+    },
+    {
+      "name_category": "Waterfall",
+      "image": "https://images.pexels.com/photos/2743287/pexels-photo-2743287.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Bus",
+      "title":"Destroyer",
+      "image":"https://i.pinimg.com/564x/cd/69/78/cd69782e6622c64f142aebad40b300d3.jpg",
+      "coin":150
+    },
+    {
+      "id": 2,
+      "name_category": "Bus",
+      "title": "Sultan Bus",
+      "image": "https://i.pinimg.com/564x/1a/9b/38/1a9b38d0fbbce0d1a452fc1d4271e66c.jpg",
+      "coin":300
+    },
+    {
+      "id":3,
+      "name_category": "Bus",
+      "title":"Pinky Bus",
+      "image":"https://i.pinimg.com/564x/92/1e/2e/921e2ed129c085cf396b54c1e53ef928.jpg",
+      "coin":0
+    },
+    {
+      "id":4,
+      "name_category": "Bus",
+      "title":"Sultan Bus",
+      "image":"https://i.pinimg.com/564x/4c/ce/77/4cce7705c4adabce98e0a7e7bd0dee5b.jpg",
+      "coin":0
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Bus",
+      "title":"Komban Holiday",
+      "image":"https://i.pinimg.com/564x/38/8d/fe/388dfea2fb119b6775d7b73994ef30a4.jpg",
+      "coin":200
+    },
+    {
+      "id":6,
+      "name_category": "Bus",
+      "title":"Kerala Bus",
+      "image":"https://i.pinimg.com/564x/fc/5d/d5/fc5dd57366a1d3fc672ca1bef30a44f8.jpg",
+      "coin":100
+    },
+    {
+      "id":7,
+      "name_category": "Bus",
+      "title":"KRSTC",
+      "image":"https://i.pinimg.com/564x/6d/4d/27/6d4d27d520d98e9550fb708796eee17f.jpg",
+      "coin":100
+    },
+    {
+      "id":8,
+      "name_category": "Bus",
+      "title":"Jog Bus",
+      "image":"https://i.pinimg.com/564x/60/4e/6d/604e6d934f1ae9b3fceecac6fd3b08a5.jpg",
+      "coin":0
+    },
+    {
+      "id":9,
+      "name_category": "Bus",
+      "title":"Jog Bus",
+      "image":"https://i.pinimg.com/564x/2d/12/54/2d1254f627b72806372ab9b4981f20e1.jpg",
+      "coin":100
+    },
+    {
+      "id":10,
+      "name_category": "Bus",
+      "title":"Jog Bus",
+      "image":"https://i.pinimg.com/564x/bb/76/b0/bb76b09a8aa69d223883ba4a01d10533.jpg",
+      "coin":0
+    }
+  ]
+}
