@@ -1,0 +1,114 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "coin_reward": 1000
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Bus Basuri V3 Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/ImGYf3P7mCvHpuT3sHSnRxKPs0I9lVKkdsFZoXtuP2w7Kj8j2iF2MaksHTRnOpW15RA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.busbasuriv3wallpaper"
+    },
+    {
+      "title":"Wallpaper Sunset 4K",
+      "image":"https://play-lh.googleusercontent.com/snrmRASFpk0NqbanCVYFzTdkqO4VEKCeD5oiKZk8aMojOhAlwLJ0FNAeMNFsq9eR0IQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.limangmilyarapps.wallpapersunset4k"
+    }
+  ],
+
+  "Categories": [
+    {
+      "name_category": "Anime Girl",
+      "image": "https://images.pexels.com/photos/2217365/pexels-photo-2217365.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Anime Girl",
+      "title":"Anime Aesthetic",
+      "image":"https://i.pinimg.com/564x/95/5a/17/955a17a627f765708c35b0c8228363b1.jpg",
+      "coin":0
+    },
+    {
+      "id": 2,
+      "name_category": "Anime Girl",
+      "title": "Anime Girl",
+      "image": "https://i.pinimg.com/736x/8c/70/b3/8c70b34b84977225620c53e9c57dbd7e.jpg",
+      "coin":0
+    },
+    {
+      "id":3,
+      "name_category": "Anime Girl",
+      "title":"Snow Girl",
+      "image":"https://i.pinimg.com/564x/97/0e/42/970e423b1333cbac8f5d1d77ae788391.jpg",
+      "coin":100
+    },
+    {
+      "id":4,
+      "name_category": "Anime Girl",
+      "title":"Green Grass",
+      "image":"https://i.pinimg.com/564x/1e/b4/f2/1eb4f2b6a32e38d0ba0cfdbde8be7a0d.jpg",
+      "coin":0
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Anime Girl",
+      "title":"Empty think",
+      "image":"https://i.pinimg.com/564x/80/05/98/8005989b8d58f80d84a28de30556a76a.jpg",
+      "coin":200
+    },
+    {
+      "id":6,
+      "name_category": "Anime Girl",
+      "title":"Flower Girl",
+      "image":"https://i.pinimg.com/564x/98/d8/cc/98d8ccee1897176d99cf3867b6329825.jpg",
+      "coin":100
+    },
+    {
+      "id":7,
+      "name_category": "Anime Girl",
+      "title":"Flower Girl",
+      "image":"https://i.pinimg.com/564x/fb/70/62/fb70627c25840dda50dd13cb43a35e5f.jpg",
+      "coin":100
+    },
+    {
+      "id":8,
+      "name_category": "Anime Girl",
+      "title":"Anime Girl Rain",
+      "image":"https://i.pinimg.com/564x/da/85/7e/da857efc1082c0e0961f11a61e314a5f.jpg",
+      "coin":100
+    }
+  ]
+}
