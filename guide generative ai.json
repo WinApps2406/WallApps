@@ -1,0 +1,209 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "What is generative AI? Everything you need to know ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPN1nnL6tfnym7h12xkGxYGIOnHU2U5G50dA&usqp=CAU",
+      "description": "Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data ",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "GETTING STARTED WITH GENERATIVE AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1u0xoa4JbiGlqmcoVtWi-71UQUjBbI_qv2w&usqp=CAU",
+      "description": "Generative AI has revolutionized the way we approach content creation",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-2.html" 
+    },
+	{
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Generative AI: Complete overview of the techniques and applications",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOHjXXZW4tjZQhepWoKCn86gERWlpj_l-wQ&usqp=CAU",
+      "description": "A brief overview of generative AI and how it emerged. ",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "What is generative AI and why should you care?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw3A1iCykkhIQYxbB4M2qZOc2RhBW_IwthQ&usqp=CAU",
+      "description": "Generative AI refers to unsupervised and semi-supervised machine learning algorithms that enable computers to use existing content like text, audio and video files, images, and even code to create new possible conten",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Reskin",
+      "title": "Ask a Techspert: What is generative AI?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw3A1iCykkhIQYxbB4M2qZOc2RhBW_IwthQ&usqp=CAU",
+      "description": "How do language models work?.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Reskin",
+      "title": " Introduction to Generative AI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSquLzxZKMKGDHY2fGvGgAw3EI63lD0o9BE3A&usqp=CAU",
+      "description": "What is generative AI?.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Reskin",
+      "title": "What is generative AI and why is it so popular? Here's everything you need to know.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDJHw4SLOpi3aQtfAHoTZOfLMc93K9QZ8Cw&usqp=CAU",
+      "description": "Why is generative AI a hot topic right now?.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Reskin",
+      "title": "Want More Out of Generative AI? Here Are 9 Useful Resources.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgDkOoDOurNb0cOG4xx8O4rnqBw6N4LB_Jg&usqp=CAU",
+      "description": "THE RECENT WAVE of generative artificial intelligence services, from ChatGPT to Midjourney, are designed to be simple to use",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Reskin",
+      "title": "Generative AI: 7 Steps to Grow with the AI.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiGkruZZiHhOZzLCRnvQkPjt0DwcECYd1GA&usqp=CAU",
+      "description": "Generative AI is a new buzzword that emerged with its novel applications like DeepFake and ChatGPT.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Reskin",
+      "title": "What Is Generative AI?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-TVWAGDpMa1ihQhyF6f9r7YEfjRqKy-mWA&usqp=CAU",
+      "description": "Generative AI is a set of algorithms, capable of generating seemingly new, realistic content—such as text, images, or audio—from the training data",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Reskin",
+      "title": "How Generative AI Changes Strategy.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYS-kKN1Vcpx8lNDgxcW9QelRBfjjvMinOw&usqp=CAU",
+      "description": "Strategy is about making the future happen, not just reacting to it, according to author Gary Hamel.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Reskin",
+      "title": "Decoding the Magic of Generative AI and How it Works.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpeZcC-p6IYcz8VUhRIuaQ7UGrvvkS3WD-A&usqp=CAU",
+      "description": "What is Generative AI? Definition and Meaning.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Reskin",
+      "title": "How Generative AI Search is Changing Search Engines.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShwcaFf2mZjqOqvaeg3GQQ8QiLf6B0Ys1NGg&usqp=CAU",
+      "description": "Generative AI search is the next iteration for online search as we know it from Yahoo.com, Google.com, Bing.com, and more.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Reskin",
+      "title": "What is generative AI?.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9-yqsYvnv_UQiyYTd-A1bqVeHtkuGDXeFw&usqp=CAU",
+      "description": "Generative AI refers to deep-learning models that can generate high-quality text, images, and other content based on the data they were trained on.",
+      "link": "https://belbuldevofficial.blogspot.com/p/generative-14.html"
+    }
+  ]
+}
